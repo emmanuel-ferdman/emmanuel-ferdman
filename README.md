@@ -54,5 +54,6 @@
 </details>
 
 <!-- 1x1 pixel counter to record hits -->
+<!-- If you intend to fork this repo, make sure to change the tracking URL below to use your own account ID -->
 ![](https://hit.yhype.me/github/profile?account_id=35470921)
 
