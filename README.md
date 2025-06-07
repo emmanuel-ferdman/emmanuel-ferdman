@@ -22,7 +22,7 @@
   <p align="center">
     <strong><a href="https://github.com/emmanuel-ferdman/solists">solists</a></strong> is a high-performance TypeScript library that brings self-organizing lists to life with adaptive heuristics.
     <br/>
-    👉 Just like the data it manages, the repo loves attention — <a href="https://github.com/emmanuel-ferdman/solists">drop a ⭐</a> to keep it at front.
+    👉 Just like the data it manages, the repo loves attention — <a href="https://github.com/emmanuel-ferdman/solists">drop a ⭐</a> to keep it at <i>front</i>. 🥁
   </p>
 </details>
 
