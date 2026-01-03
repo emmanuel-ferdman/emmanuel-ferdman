@@ -37,7 +37,7 @@
         </td>
         <td>
         <a href="https://github.com/emmanuel-ferdman">
-            <img alt="emmanuel-ferdman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emmanuel-ferdman&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+            <img alt="emmanuel-ferdman's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emmanuel-ferdman&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
         </a>
         </td>
     </tr>
@@ -56,4 +56,3 @@
 <!-- 1x1 pixel counter to record hits -->
 <!-- If you intend to fork this repo, make sure to change the tracking URL below to use your own account ID -->
 ![](https://hit.yhype.me/github/profile?account_id=35470921)
-
