@@ -37,7 +37,7 @@
         </td>
         <td>
         <a href="https://github.com/emmanuel-ferdman">
-            <img alt="emmanuel-ferdman's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=emmanuel-ferdman&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+            <img title="emmanuel-ferdman's GitHub Stats" alt="emmanuel-ferdman's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=emmanuel-ferdman&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
         </a>
         </td>
     </tr>
@@ -45,7 +45,7 @@
         <td colspan="2" align="center">
         <p align="center">
             <a href="https://github.com/emmanuel-ferdman">
-            <img alt="emmanuel-ferdman's Activity Graph" src="https://github-readme-activity-graph-delta.vercel.app/graph/?username=emmanuel-ferdman&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+            <img title="emmanuel-ferdman's Activity Graph" alt="emmanuel-ferdman's Activity Graph" src="https://github-readme-activity-graph-delta.vercel.app/graph/?username=emmanuel-ferdman&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
             </a>
         </p>
         </td>
